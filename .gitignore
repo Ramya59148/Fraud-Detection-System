@@ -13,3 +13,7 @@ dist/
 *.bin
 *.wav
 test-*.json
+
+training/saved_models/
+
+training/saved_models/
