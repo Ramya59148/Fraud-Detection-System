@@ -1,0 +1,15 @@
+﻿fastapi==0.135.2
+uvicorn==0.42.0
+SQLAlchemy==2.0.48
+pydantic==2.12.5
+python-multipart==0.0.22
+numpy==2.4.3
+pandas==3.0.1
+scikit-learn==1.8.0
+joblib==1.5.3
+torch==2.13.0
+transformers==5.4.0
+safetensors==0.7.0
+pypdf==6.19.0
+librosa==0.11.0
+soundfile==0.13.1
